@@ -1,0 +1,64 @@
+@import "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Poppins:wght@400;600&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap";
+@import "https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css";
+.font-heading {
+  font-family: Playfair Display, serif;
+}
+
+.font-body {
+  font-family: Poppins, sans-serif;
+}
+
+body {
+  font-family: Montserrat, sans-serif;
+}
+
+.skill-card {
+  background-position: center;
+  background-size: cover;
+  border-radius: .75rem;
+  padding: 2rem;
+  transition: all .2s;
+  position: relative;
+  box-shadow: 0 4px 12px #0000004d;
+}
+
+.skill-card h3 {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  transition: all .2s;
+}
+
+.skill-card:hover h3 {
+  color: #7dd3fc;
+}
+
+.sub-skills {
+  opacity: 0;
+  transition: opacity .2s, transform .3s;
+  transform: translateY(10px);
+}
+
+.skill-card:hover .sub-skills {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.skill-card:hover {
+  transform: scale(1.05);
+}
+
+.quote-section p {
+  color: #d1d5db;
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
+
+.quote-section p:first-child {
+  color: #fbbf24;
+  font-size: 2rem;
+}
+/*# sourceMappingURL=index.44218f75.css.map */
