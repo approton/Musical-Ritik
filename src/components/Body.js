@@ -12,22 +12,24 @@ const Body = () => {
   }, []);
 
   return (
-    <div className="bg-gray-800 h-screen flex flex-col items-center justify-center overflow-hidden px-4">
+    <div className="bg-gray-800 h-screen flex flex-col items-center justify-start overflow-hidden px-4">
       <Header />
+
       <motion.div 
-        className="container mx-auto px-4 mt-16"
+        className="container mx-auto mt-16" // Added margin-top to ensure title is not hidden behind the header
         initial={{ opacity: 0, y: -50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, ease: "easeOut" }}
       >
         <motion.h1 
-          className="text-4xl md:text-6xl font-medium text-gray-200 italic"
+          className="text-4xl md:text-6xl font-medium text-gray-200 italic mb-4"
           initial={{ opacity: 0, scale: 0.8 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 1, ease: "easeOut" }}
         >
           Ritik Pandey
         </motion.h1>
+
         <div className="flex flex-col md:flex-row items-center mt-8">
           <motion.div 
             className="flex-1"
@@ -45,10 +47,11 @@ const Body = () => {
               Ritik is a force to be reckoned with in the world of live music.
             </p>
           </motion.div>
+
           <motion.img 
             src={profileImage} 
             alt="Ritik Pandey" 
-            className="w-1/2 md:w-1/4 rounded-full mt-8 md:mt-0 md:ml-8 shadow-lg"
+            className="w-1/2 md:w-1/4 rounded-full mt-8 md:mt-0 md:ml-8 shadow-lg md:self-start"
             initial={{ opacity: 0, scale: 0.5, rotate: -10 }}
             animate={{ opacity: 1, scale: 1, rotate: 0 }}
             transition={{ duration: 1, delay: 0.8, ease: "easeOut" }}
@@ -56,6 +59,7 @@ const Body = () => {
           />
         </div>
       </motion.div>
+
       <BelowBody />
     </div>
   );
