@@ -3,7 +3,7 @@ import Header from './Header';
 import Footer from './Footer'; // Import Footer here
 
 const ContactPage = () => {
-    profileImage = require('../images/contact-img2.jpeg')
+  const profileImage = require('../images/contact-img2.jpeg')
   return (
     <div className="bg-gradient-to-b from-gray-800 to-gray-900 min-h-screen flex flex-col justify-between">
       {/* Header */}
