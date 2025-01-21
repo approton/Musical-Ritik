@@ -29,7 +29,7 @@ const ContactPage = () => {
           {/* Contact Information */}
           <div className="text-lg md:text-xl">
             <p className="mb-6">Email: <a href="mailto:example@example.com" className="text-blue-400 hover:underline transition">ritikpandey195@gmail.com</a></p>
-            <p>Phone: <a href="tel:+1234567890" className="text-blue-400 hover:underline transition">+91-9219006949</a></p>
+            <p>Phone: <a href="tel:+91-9219006949" className="text-blue-400 hover:underline transition">+91-9219006949</a></p>
           </div>
         </div>
       </main>
