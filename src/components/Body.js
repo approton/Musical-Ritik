@@ -12,8 +12,7 @@ const Body = () => {
   }, []);
 
   return (
-    <div className="bg-gray-800 h-screen flex flex-col items-center justify-start overflow-hidden px-4">
-      <Header />
+    <div className="bg-gray-800 h-screen flex flex-col items-center justify-start overflow-hidden px-4 mt-6">
 
       <motion.div 
         className="container mx-auto mt-16" // Added margin-top to ensure title is not hidden behind the header
