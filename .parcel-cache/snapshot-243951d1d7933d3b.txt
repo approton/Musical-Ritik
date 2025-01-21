@@ -1,4 +1,4 @@
-19749
+19750
 80C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\merge-descriptors\README.md133819329355457912 0
 59C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\is-obj133819329360673282 1
 73C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@swc\core\binding.js133819329365593716 0
@@ -10,8 +10,9 @@
 76C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\lodash\fp\conformsTo.js133819329442954390 0
 57C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\vary133819329363278892 1
 82C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-abstract\2023\SameValue.js133819329467986053 0
+50C:\Users\rpand\Desktop\Ritik_Portpholio\.gitignore133819371899654989 0
 76C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\moment\src\locale\ja.js133819329429510630 0
-52C:\Users\rpand\Desktop\Ritik_Portpholio\package.json133819346719724542 0
+52C:\Users\rpand\Desktop\Ritik_Portpholio\package.json133819385747576271 0
 124C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@fortawesome\fontawesome-free\svgs\solid\arrow-up-right-from-square.svg133819346673572611 0
 70C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\nocache\README.md133819329357957545 0
 123C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\flaschenpost\node_modules\@babel\runtime\helpers\esm\getPrototypeOf.js133819329413664836 0
@@ -42,7 +43,7 @@
 85C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-abstract\2024\MakeFullYear.js133819329458608805 0
 105C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@fortawesome\fontawesome-free\svgs\solid\oil-can.svg133819346703315851 0
 95C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@parcel\core\src\serializerCore.browser.js133819329421461030 0
-44C:\Users\rpand\Desktop\Ritik_Portpholio\dist133819369146771307 1
+44C:\Users\rpand\Desktop\Ritik_Portpholio\dist133819385764929166 1
 85C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\resolve\test\resolver\cup.coffee133819329373352170 0
 69C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\.bin\js-yaml.ps1133819329481122659 0
 72C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\lodash\fp\pathOr.js133819329450101596 0
@@ -732,11 +733,11 @@
 116C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\flaschenpost\node_modules\@babel\runtime\helpers\createClass.js133819329393130459 0
 62C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\callsites133819329363780019 1
 77C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\core-js\fn\math\hypot.js133819329453933949 0
-85C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\typed-array-length\test\index.js133819329365445371 0
 102C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\caniuse-lite\data\features\hardwareconcurrency.js133819329434604288 0
 109C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\framer-motion\dist\es\render\dom\utils\camel-to-dash.mjs133819329412003332 0
 76C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\node-rsa\src\NodeRSA.js133819329389678947 0
 84C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\typed-array-byte-offset\LICENSE133819329357688500 0
+85C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\typed-array-length\test\index.js133819329365445371 0
 85C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\core-js\library\modules\_core.js133819329400790412 0
 84C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\caniuse-lite\data\regions\SH.js133819329444297061 0
 79C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\lodash\_listCacheDelete.js133819329426105148 0
@@ -1865,7 +1866,7 @@
 110C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@jridgewell\gen-mapping\dist\types\sourcemap-segment.d.ts133819329378249637 0
 59C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\nanoid133819329393459076 1
 98C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\supports-preserve-symlinks-flag\test\index.js133819329368112303 0
-67C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.9e4c6fd2.css.map133819360252935446 0
+67C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.9e4c6fd2.css.map133819385763874672 0
 79C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\lodash\fp\sortedIndexBy.js133819329451897724 0
 102C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\posthtml\node_modules\dom-serializer\package.json133819329373842916 0
 63C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\negotiator133819329376157379 1
@@ -2676,17 +2677,17 @@
 67C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\is-map\.github133819329383992858 1
 90C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\core-js\fn\number\max-safe-integer.js133819329459386933 0
 90C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\scheduler\cjs\scheduler.production.js133819329381047021 0
-74C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\lodash\_baseLodash.js133819329407286655 0
-79C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\moment\src\locale\ug-cn.js133819329433454146 0
-118C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\framer-motion\dist\es\utils\reduced-motion\use-reduced-motion.mjs133819329434242814 0
-70C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\source-map-js\lib133819329389758993 1
-83C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\yaml\dist\parse\cst-visit.d.ts133819329424320479 0
-74C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\core-js\es6\string.js133819329464276191 0
-126C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\hase\node_modules\@babel\runtime\helpers\esm\iterableToArrayLimitLoose.js133819329414662272 0
 76C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\lodash\fp\toIterator.js133819329453515491 0
 80C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\object-inspect\test\deep.js133819329374006954 0
 93C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\core-js\library\modules\web.immediate.js133819329467119039 0
 113C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\sucrase\dist\esm\transformers\ReactDisplayNameTransformer.js133819329415156077 0
+74C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\lodash\_baseLodash.js133819329407286655 0
+79C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\moment\src\locale\ug-cn.js133819329433454146 0
+118C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\framer-motion\dist\es\utils\reduced-motion\use-reduced-motion.mjs133819329434242814 0
+83C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\yaml\dist\parse\cst-visit.d.ts133819329424320479 0
+70C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\source-map-js\lib133819329389758993 1
+74C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\core-js\es6\string.js133819329464276191 0
+126C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\hase\node_modules\@babel\runtime\helpers\esm\iterableToArrayLimitLoose.js133819329414662272 0
 75C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\yaml\dist\parse\cst.js133819329400150039 0
 78C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\util.promisify\.npmignore133819329355288541 0
 102C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\framer-motion\dist\es\motion\features\Feature.mjs133819329422489984 0
@@ -12095,7 +12096,6 @@
 82C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-to-primitive\.editorconfig133819329352940297 0
 82C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-to-primitive\.eslintignore133819329355626068 0
 80C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-to-primitive\es2015.d.ts133819329389842761 0
-92C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-abstract\5\FromPropertyDescriptor.js133819329439456095 0
 78C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-to-primitive\es2015.js133819329367840104 0
 93C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\core-js\modules\_array-species-create.js133819329396965457 0
 77C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-to-primitive\es5.d.ts133819329390450417 0
@@ -12230,6 +12230,7 @@
 73C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-abstract\5\Day.js133819329434475562 0
 80C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-abstract\5\DaysInYear.js133819329435269265 0
 87C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\core-js\fn\array\virtual\reduce.js133819329462175190 0
+92C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-abstract\5\FromPropertyDescriptor.js133819329439456095 0
 80C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-abstract\5\IsCallable.js133819329448802039 0
 86C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-abstract\5\IsDataDescriptor.js133819329450267677 0
 89C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-abstract\5\IsGenericDescriptor.js133819329451985823 0
@@ -13973,7 +13974,7 @@
 91C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-abstract\2015\ArraySpeciesCreate.js133819329415854884 0
 85C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-abstract\2015\Canonicalize.js133819329425405306 0
 100C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-abstract\2015\CanonicalNumericIndexString.js133819329425987569 0
-62C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.7271efb6.js133819369146608062 0
+62C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.7271efb6.js133819385764275525 0
 91C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-abstract\2015\CreateDataProperty.js133819329430623184 0
 103C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@parcel\utils\test\replaceBundleReferences.test.js133819329406953783 0
 98C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\es-abstract\2015\CreateDataPropertyOrThrow.js133819329431180900 0
@@ -14155,7 +14156,7 @@
 70C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\encodeurl\LICENSE133819329358121873 0
 96C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\core-js\modules\library\es6.date.to-json.js133819329437953440 0
 72C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\encodeurl\README.md133819329355626068 0
-55C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.html133819360254010135 0
+55C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.html133819385764929166 0
 75C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\emoji-regex\index.d.ts133819329379649588 0
 73C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\emoji-regex\index.js133819329357422495 0
 79C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\emoji-regex\RGI_Emoji.d.ts133819329384117457 0
@@ -16597,7 +16598,7 @@
 89C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\caniuse-lite\data\features\canvas.js133819329412440128 0
 100C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\caniuse-lite\data\features\chacha20-poly1305.js133819329414662272 0
 101C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\basic-auth\node_modules\safe-buffer\package.json133819329353341402 0
-63C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.44218f75.css133819360252694308 0
+63C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.44218f75.css133819385763763509 0
 114C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\caniuse-lite\data\features\client-hints-dpr-width-viewport.js133819329415995542 0
 92C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\caniuse-lite\data\features\clipboard.js133819329416160500 0
 90C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\caniuse-lite\data\features\colr-v1.js133819329416656123 0
@@ -18415,7 +18416,7 @@
 110C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@fortawesome\fontawesome-free\svgs\solid\battery-full.svg133819346674886967 0
 69C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\.bin\sucrase.cmd133819329481122659 0
 120C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@fortawesome\fontawesome-free\svgs\solid\battery-three-quarters.svg133819346674886967 0
-63C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.9e4c6fd2.css133819360252694308 0
+63C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.9e4c6fd2.css133819385763763509 0
 107C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@fortawesome\fontawesome-free\svgs\solid\bed-pulse.svg133819346674985206 0
 101C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@fortawesome\fontawesome-free\svgs\solid\bed.svg133819346674985206 0
 103C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@fortawesome\fontawesome-free\svgs\brands\xing.svg133819346718278131 0
@@ -18450,7 +18451,7 @@
 108C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@fortawesome\fontawesome-free\svgs\solid\broom-ball.svg133819346678748459 0
 103C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@fortawesome\fontawesome-free\svgs\solid\brush.svg133819346678832632 0
 104C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@fortawesome\fontawesome-free\svgs\solid\bucket.svg133819346680133868 0
-66C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.7271efb6.js.map133819369146771307 0
+66C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.7271efb6.js.map133819385764327584 0
 107C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@fortawesome\fontawesome-free\svgs\solid\bug-slash.svg133819346680333051 0
 125C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@fortawesome\fontawesome-free\svgs\solid\building-circle-arrow-right.svg133819346680484968 0
 119C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\@fortawesome\fontawesome-free\svgs\solid\building-circle-check.svg133819346680505124 0
@@ -19737,14 +19738,14 @@
 62C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\.bin\uuid133819329481156445 0
 62C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\.bin\yaml133819329481156445 0
 66C:\Users\rpand\Desktop\Ritik_Portpholio\node_modules\.bin\yaml.ps1133819329481156445 0
-71C:\Users\rpand\Desktop\Ritik_Portpholio\dist\contact-img2.bd2f8af8.jpeg133819360253830568 0
+71C:\Users\rpand\Desktop\Ritik_Portpholio\dist\contact-img2.bd2f8af8.jpeg133819385764095479 0
 71C:\Users\rpand\Desktop\Ritik_Portpholio\dist\fa-brands-400.4257408a.ttf133819348661374251 0
 72C:\Users\rpand\Desktop\Ritik_Portpholio\dist\fa-regular-400.1ca1d6f1.ttf133819348661374251 0
 72C:\Users\rpand\Desktop\Ritik_Portpholio\dist\fa-solid-900.45be5413.woff2133819348659733300 0
 78C:\Users\rpand\Desktop\Ritik_Portpholio\dist\fa-v4compatibility.fd23dd3a.woff2133819348659709358 0
 76C:\Users\rpand\Desktop\Ritik_Portpholio\dist\fa-v4compatibility.ff721ea1.ttf133819348661374251 0
-67C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.44218f75.css.map133819360252935446 0
+67C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.44218f75.css.map133819385763904845 0
 62C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.6485d141.js133818699115146686 0
 66C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.6485d141.js.map133818699115270898 0
 63C:\Users\rpand\Desktop\Ritik_Portpholio\dist\index.9c53595e.css133818699115141243 0
-70C:\Users\rpand\Desktop\Ritik_Portpholio\dist\profile_img.eddde49c.jpeg133819360252694308 0
+70C:\Users\rpand\Desktop\Ritik_Portpholio\dist\profile_img.eddde49c.jpeg133819385763763509 0

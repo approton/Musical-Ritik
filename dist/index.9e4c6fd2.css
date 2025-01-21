@@ -740,11 +740,6 @@ img, video {
   letter-spacing: .025em;
 }
 
-.text-black {
-  --tw-text-opacity: 1;
-  color: rgb(0 0 0 / var(--tw-text-opacity, 1));
-}
-
 .text-blue-300 {
   --tw-text-opacity: 1;
   color: rgb(147 197 253 / var(--tw-text-opacity, 1));
