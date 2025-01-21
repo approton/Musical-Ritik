@@ -44,7 +44,6 @@ import React, { useState, useEffect } from 'react';
 import Header from './Header';
 import BelowBody from './BelowBody';
 import { motion } from 'framer-motion';
-import Footer from './Footer';
 
 const Body = () => {
   const [isAnimated, setIsAnimated] = useState(false);
@@ -71,7 +70,7 @@ const Body = () => {
         >
           Ritik Pandey
         </motion.h1>
-        <div className="flex items-center">
+        <div className="flex flex-col md:flex-row items-center">
           <motion.div 
             className="flex-1"
             initial={{ opacity: 0, x: -50 }}
@@ -91,7 +90,7 @@ const Body = () => {
           <motion.img 
             src={profileImage} 
             alt="Ritik Pandey" 
-            className="w-1/4 rounded-full ml-8 shadow-lg"
+            className="w-1/2 md:w-1/4 rounded-full mt-4 md:mt-0 md:ml-8 shadow-lg"
             initial={{ opacity: 0, scale: 0.5, rotate: -10 }}
             animate={{ opacity: 1, scale: 1, rotate: 0 }}
             transition={{ duration: 1, delay: 0.8, ease: "easeOut" }}
