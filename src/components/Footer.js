@@ -19,13 +19,13 @@ const Footer = () => {
 
         {/* Contact Info */}
         <div className="text-lg mb-4">
-          <p>Email: <a href="mailto:example@example.com" className="text-blue-400 hover:underline">example@example.com</a></p>
+          <p>Email: <a href="mailto:example@example.com" className="text-blue-400 hover:underline">ritikpandey195@gmail.com</a></p>
           <p>Phone: <a href="tel:+1234567890" className="text-blue-400 hover:underline">+91-9219006949</a></p>
         </div>
 
         {/* Copyright */}
         <p className="text-sm text-gray-400 mt-4">
-          &copy; 2025 Your Company. All Rights Reserved.
+          &copy; 2025 Musical Ritik. All Rights Reserved.
         </p>
       </div>
     </footer>
