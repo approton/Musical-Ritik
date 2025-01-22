@@ -15,7 +15,7 @@ const Body = () => {
     <div className="bg-gray-800 h-screen flex flex-col items-center justify-start overflow-hidden px-4 mt-6">
 
       <motion.div 
-        className="container mx-auto mt-24"
+        className="container mx-auto px-4 mt-16"
         initial={{ opacity: 0, y: -50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, ease: "easeOut" }}
